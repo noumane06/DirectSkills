@@ -1,0 +1,69 @@
+[
+    {
+      "company": "GOOGLE",
+      "v": 2.52245e7,
+      "vw": 144.8282,
+      "o": 144.4755,
+      "c": 145.0745,
+      "highestPriceOfTheDay": 100.0,
+      "lowestPriceOfTheDay": 50.0,
+      "timestamp": 1693563728000,
+      "n": 78529
+    },
+    {
+      "company": "GOOGLE",
+      "v": 2.292778e7,
+      "vw": 144.816,
+      "o": 145.5505,
+      "c": 144.4165,
+      "highestPriceOfTheDay": 150.0,
+      "lowestPriceOfTheDay": 100.0,
+      "timestamp": 1690885328000,
+      "n": 78069
+    },
+    {
+      "company": "GOOGLE",
+      "v": 2.292778e7,
+      "vw": 144.816,
+      "o": 145.5505,
+      "c": 144.4165,
+      "highestPriceOfTheDay": 20.0,
+      "lowestPriceOfTheDay": 40.0,
+      "timestamp": 1688206928000,
+      "n": 78069
+    },
+    {
+      "company": "AMAZON",
+      "v": 2.292778e7,
+      "vw": 144.816,
+      "o": 145.5505,
+      "c": 144.4165,
+      "highestPriceOfTheDay": 110.0,
+      "lowestPriceOfTheDay": 10.0,
+      "timestamp": 1693563728000,
+      "n": 78069
+    },
+    {
+      "company": "AMAZON",
+      "v": 2.292778e7,
+      "vw": 144.816,
+      "o": 145.5505,
+      "c": 144.4165,
+      "highestPriceOfTheDay": 50.0,
+      "lowestPriceOfTheDay": 40.0,
+      "timestamp": 1690885328000,
+      "n": 78069
+    },
+    {
+      "company": "AMAZON",
+      "v": 2.292778e7,
+      "vw": 144.816,
+      "o": 145.5505,
+      "c": 144.4165,
+      "highestPriceOfTheDay": 220.0,
+      "lowestPriceOfTheDay": 140.0,
+      "timestamp": 1688206928000,
+      "n": 78069
+    }
+  ]
+  
