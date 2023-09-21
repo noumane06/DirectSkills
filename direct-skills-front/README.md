@@ -36,6 +36,8 @@ We will need first to install all dependencies used in the project
 
 Clone the project repo first , and navigate to the project .
 
+Create a .env file and clone the content of .env.example in it .
+
 Assuming that you have [Node 12 LTS](https://nodejs.org/en/download/) or greater installed, you can use npm to install node modules
 
 ```bash
